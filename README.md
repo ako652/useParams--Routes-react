@@ -22,3 +22,7 @@
 ![](./screenshots/productsPage.png)
 
 ![](./screenshots/productDetail.png)
+
+### Notes
+
+the image and logo are in the `screenshots` folder
